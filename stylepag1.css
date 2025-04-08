@@ -159,7 +159,7 @@ div.lista{
 }
 li {
     font-size: 1.3em;
-    margin: 10px 10px;
+    margin: 10px;
     font-style: italic;
     color: #07B2D9;
 }
@@ -202,7 +202,7 @@ div.familia{
     background-position: center center;
     background-size: contain;
     
-    min-width: 350px;
+    width: 328px;
     height: 350px;
     background-attachment: fixed;
     margin: auto;
@@ -422,7 +422,7 @@ div.fim p{
 }
 
 div.pagamento{
-    
+    margin: auto;
      height: 150px;
      text-align: center;
 }
@@ -436,7 +436,8 @@ div.pagamento h1{
 
 div.pagamento img{
     height: 80px;
-    width: 480px;
+    width: 450px;
+    margin: auto;
 
 }
 
