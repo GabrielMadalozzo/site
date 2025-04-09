@@ -15,7 +15,9 @@
     padding: 0px;
 }
 
-
+div.container{
+    width: 350px;
+}
 body{
     font-size: 0.9em;
     margin: auto;
@@ -215,11 +217,11 @@ div.familia{
 div.familia h1{
     padding-top: 70px;
     margin-bottom: 15px;
-    margin-left: 50px;
+    margin-left: 0px;
     color: #07B2D9;
     font-weight: normal;
     font-size: 2.3em;
-    max-width: 550px;
+    width: 350px;
     font-weight: bold;
 
 }
@@ -229,9 +231,9 @@ div.familia p {
     padding: 10px;
     text-indent: 0px;
     text-align: justify;
-    width: 400px;
+    width: 328px;
     border-radius: 10px;
-    margin-left: 50px;
+    margin-left: 0px;
     color: rgb(0, 0, 0);
 
 }
@@ -484,6 +486,7 @@ footer img{
     padding: 5px;
     margin-bottom: 10px;
     display: inline-block;
+    margin-top: 150px;
 }
 footer a {
     padding: 10px;
