@@ -285,7 +285,7 @@ li.prestação p{
 aside.img{
     background-attachment: fixed;
     background-size: cover;
-    background-image: url(imagens/sofa1.0.jpg);
+    background-image: url(imagens/sofaofc.jpg);
     box-shadow: inset 20px 20px 20px rgba(0, 0, 0, 0.199);
     width: 400px;
     height: 500px;
@@ -427,8 +427,8 @@ div.fim p{
 
 div.pagamento{
     margin: auto;
-     height: 150px;
-     text-align: center;
+    height: 150px;
+     
 }
 
 div.pagamento h1{
@@ -436,6 +436,8 @@ div.pagamento h1{
     font-family: "Noto Sans Adlam Unjoined", sans-serif;
     font-size: 2.6em;
     font-weight: bolder;
+    text-align: center;
+    width: 400px;
 }
 
 div.pagamento img{
@@ -463,6 +465,7 @@ div.bairros h1{
     margin: 10px;
     padding: 10px;
     width: 400px;
+    text-align: center;
 
 }
 
