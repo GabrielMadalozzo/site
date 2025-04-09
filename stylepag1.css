@@ -168,7 +168,7 @@ li {
 
 
 main div.sobre{
-    background-image: url(imagens/Captura\ de\ tela\ compac.png);
+    background-image: url(imagens/captura.png);
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -285,7 +285,7 @@ li.prestação p{
 aside.img{
     background-attachment: fixed;
     background-size: cover;
-    background-image: url(imagens/pexels-heyho-6758245.jpg);
+    background-image: url(imagens/sofa1.0.jpg);
     box-shadow: inset 20px 20px 20px rgba(0, 0, 0, 0.199);
     width: 400px;
     height: 500px;
