@@ -82,7 +82,7 @@ div.header{
     background-image: url(imagens/top.jpeg); 
     background-size: contain;
     background-repeat: no-repeat;
-    min-width: 350px;
+    min-width: 400px;
     height: 340px;
     margin: auto;
     display: block;
@@ -98,7 +98,7 @@ header{
     margin: auto;
     padding: 10px;
     max-width: 1250px;
-    min-width: 350px;
+    min-width: 400px;
     margin-bottom: -280px;
 }
 
@@ -149,7 +149,7 @@ div.lista{
     display: block;
     margin: auto;
     background-color: #ffffff;
-    width: 350px;
+    width: 400px;
     border-radius: 10px;
     list-style-position: inside;
     list-style-image: url(imagens/icons8-certo-32.png);
@@ -172,7 +172,7 @@ main div.sobre{
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
-    width: 350px;
+    width: 400px;
     height: 630px;
     background-attachment: fixed;
     border-radius: 10px;
@@ -205,7 +205,7 @@ div.familia{
     background-size: contain;
     
     width: 328px;
-    height: 350px;
+    height: 400px;
     background-attachment: fixed;
     margin: auto;
     border-radius: 10px 10px 0px 0px;
@@ -221,7 +221,7 @@ div.familia h1{
     color: #07B2D9;
     font-weight: normal;
     font-size: 2.3em;
-    width: 350px;
+    width: 400px;
     font-weight: bold;
 
 }
@@ -239,7 +239,7 @@ div.familia p {
 }
 
 div.prestação{
-    width: 350px;
+    width: 400px;
     height: 700px;
     padding: 10px;
     border-radius: 10px;
@@ -286,7 +286,7 @@ aside.img{
     background-size: cover;
     background-image: url(imagens/pexels-heyho-6758245.jpg);
     box-shadow: inset 20px 20px 20px rgba(0, 0, 0, 0.199);
-    width: 350px;
+    width: 400px;
     height: 500px;
     margin: auto;
     padding: 10px;
@@ -296,7 +296,7 @@ aside.img{
 
 aside.serviços {
     background-color: #ffffff;
-    width: 350px;
+    width: 400px;
     min-height: 350px;
     height: 400px;
     margin: auto;
@@ -330,7 +330,7 @@ aside img {
 }
 
 div.avaliação{
-    width: 350px;
+    width: 400px;
     height: 300px;
     background-color: rgb(255, 255, 255);
     margin: auto;
@@ -390,7 +390,7 @@ div.avaliação h1{
 }
 
 div.fim{
-    width: 350px;
+    width: 400px;
     height: 400px;
     margin: 90px;
     margin: auto;
@@ -399,7 +399,7 @@ div.fim{
 }
 
 div.fim aside{
-    width: 350px;
+    width: 400px;
     height: 300px;
     background-color: rgb(255, 255, 255);
     display: inline-block;
@@ -444,7 +444,7 @@ div.pagamento img{
 }
 
 div.bairros {
-    width: 1200px;
+    width: 400px;
     height: 300px;
     margin: 10px;
     padding: 10px;
@@ -472,7 +472,7 @@ div.bairros p{
 }
 
 footer{
-    width: 350px;
+    width: 400px;
     height: 210px;
     background-color: white;
     border-radius: 10px 10px 0px 0px;
@@ -522,7 +522,8 @@ div.footer a{
 
 div.footer{
     height: 70px; 
-    width: 350px;
+    width: 400px;
+    margin: auto;
 }
 a.agende:hover{
     background-color: #07B2D9;
