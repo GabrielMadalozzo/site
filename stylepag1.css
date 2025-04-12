@@ -194,7 +194,7 @@ div.sobre p {
 div.sobre h1{
     padding-top: 70px;
     margin-bottom: 15px;
-    margin-left: 50px;
+    margin-left: 10px;
     color: #07B2D9;
     font-weight: bolder;
     font-size: 3em;
@@ -293,7 +293,8 @@ aside.img{
     margin: auto;
     padding: 10px;
     border-radius: 10px;
-    margin-top: 470px;
+    margin-top: 550px;
+    
 }
 
 aside.serviços {
@@ -305,7 +306,7 @@ aside.serviços {
     padding: 10px;
     border-radius: 10px;
     margin-top: 18px;
-    margin-bottom: -160px;
+    margin-bottom: -200px;
 }
 
 aside.serviços p{
@@ -442,9 +443,10 @@ div.pagamento h1{
 }
 
 div.pagamento img{
-    height: 80px;
-    width: 450px;
+    height: 60px;
+    width: 400px;
     margin: auto;
+    margin: 20px 0px;
 
 }
 
